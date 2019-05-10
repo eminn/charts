@@ -3,7 +3,29 @@ entries:
   hazelcast-jet-enterprise:
   - apiVersion: v1
     appVersion: "3.0"
-    created: 2019-05-10T14:39:23.711671618+03:00
+    created: 2019-05-10T14:44:25.394206555+03:00
+    description: Hazelcast Jet Enterprise provides critical management features for
+      scaling in-memory event stream processing across your IT landscape, including
+      Management Center, Security Suite, Lossless Recovery, Rolling Job upgrades,
+      and Enterprise PaaS Deployment Environments.
+    digest: c291f0089bad1ade115043009fb6a6efb139ac7c98db3b3ae0c3d3032effd73b
+    engine: gotpl
+    home: https://hazelcast.com/products/jet/enterprise/
+    icon: http://hazelcast.com/images/logos/Hazelcast-Jet-Logo-Blue_Dark_Icon_200px.png
+    keywords:
+    - hazelcast
+    - jet
+    - streaming
+    maintainers:
+    - email: emin@hazelcast.com
+      name: emin
+    name: hazelcast-jet-enterprise
+    urls:
+    - https://eminn.github.io/charts/hazelcast-jet-enterprise-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v1
+    appVersion: "3.0"
+    created: 2019-05-10T14:44:25.393521581+03:00
     description: Hazelcast Jet Enterprise provides critical management features for
       scaling in-memory event stream processing across your IT landscape, including
       Management Center, Security Suite, Lossless Recovery, Rolling Job upgrades,
@@ -25,7 +47,7 @@ entries:
     version: 1.0.4
   - apiVersion: v1
     appVersion: "3.0"
-    created: 2019-05-10T14:39:23.711019249+03:00
+    created: 2019-05-10T14:44:25.392253925+03:00
     description: Hazelcast Jet Enterprise provides critical management features for
       scaling in-memory event stream processing across your IT landscape, including
       Management Center, Security Suite, Lossless Recovery, Rolling Job upgrades,
@@ -45,4 +67,4 @@ entries:
     urls:
     - https://eminn.github.io/charts/hazelcast-jet-enterprise-1.0.3.tgz
     version: 1.0.3
-generated: 2019-05-10T14:39:23.70928196+03:00
+generated: 2019-05-10T14:44:25.391426334+03:00
